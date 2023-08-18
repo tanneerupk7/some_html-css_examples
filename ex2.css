@@ -1,0 +1,24 @@
+.div1-1,.div1-2{
+    display:inline-block;
+    vertical-align:top;
+    margin-bottom:7px;
+}
+.img1{
+    width:200px;
+    border-radius:5px;
+}
+p{
+    font-family: arial;
+    margin-left:10px;
+    width:250px;
+    margin-top:0px;
+    color:rgb(96,96,96);
+}
+.p1{
+    color:black;
+    font-weight: bold;
+}
+.p2{
+    font-size:15px;
+    margin-bottom:5px;
+}
